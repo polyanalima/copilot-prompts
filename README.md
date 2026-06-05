@@ -24,9 +24,11 @@ Este projeto faz parte do Bootcamp DIO e contém dois agentes (prompts) criados 
 Fornecer prompts prontos para uso que apoiem estudantes e profissionais na evolução de suas carreiras em tecnologia, desde a escolha da área até o planejamento de estudos.
 
 ## 📂 Estrutura do Repositório
-- `Agent1.md` → Entrevistador de Carreira em Tecnologia  
-- `Agent2.md` → Planejador de Carreira  
-- `README.md` → Documentação do projeto
+- **AGENT 1 - Entrevistador de Carreira em Tecnologia** → Entrevistador responsável por identificar o perfil profissional e sugerir carreiras.  
+- **AGENT 2 - Planejador de Carreiras** → Planejador responsável por criar o roadmap e plano de estudos personalizado.  
+- **LICENSE** → Licença MIT do projeto.  
+- **README.md** → Documentação geral do repositório.
+
 
 ## ⚖️ Licença
 Este projeto está licenciado sob a **MIT License**.
